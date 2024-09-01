@@ -2,8 +2,8 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently pursuing **Software Engineering.**
-- 🔭 I’m working on **my degree as well as some freelance projects.**
+- 🌱 I’m currently pursuing a **BSc (Hons) in Software Engineering.**
+- 🔭 I’m working on **my degree as well as freelance projects.**
 - ❤️ I love **Modern Technology, Mathematics and Watches**
 - 📫 How to reach me: **charithaekanayaka9@gmail.com**
 - ⚡ Fun fact: **I am a part time mathematics tutor😉.**
