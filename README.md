@@ -17,7 +17,7 @@
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/charitha-ekanayaka/)
+- [LinkedIn](https://www.linkedin.com/in/charitha-ekanayaka-7565a72a1/)
 
 ---
 
