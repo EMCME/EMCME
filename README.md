@@ -1,24 +1,40 @@
-# Hi there, I'm Charitha! 👋
+# Hi there, I'm Charitha! 😊👋
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **[specific technology or topic]**
-- 🔭 I’m working on **[current project or area of interest]**
-- 💬 Ask me about **[your areas of expertise or interests]**
+- 🌱 I’m currently pursuing **Software Engineering.**
+- 🔭 I’m working on **my degree as well as some freelance projects.**
+- ❤️ I love **Modern Technology, Mathematics and Watches**
 - 📫 How to reach me: **charithaekanayaka9@gmail.com**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- ⚡ Fun fact: **I am a part time mathematics tutor😉.**
 
-## 🚀 Skills
+## 💻 Programming Skills
 
-- **Programming Languages:** [List your languages, e.g., Python, JavaScript, etc.]
-- **Frameworks/Libraries:** [List frameworks, e.g., React, Node.js, etc.]
-- **Tools:** [List tools, e.g., Git, Docker, etc.]
-- **Others:** [Any other skills, e.g., AWS, MySQL, etc.]
+- **Programming Languages:** Java, Javascript, PHP, Python, SQL 
+- **Frameworks/Libraries:** Boostrap, FlatLaf
+- **Others:** HTML, CSS
+
+## 🌟 Professional Skills
+
+  - **Web Development:** Front-end and back-end development using modern technologies.
+  - **AWS Cloud Management:** Hosting and maintaining applications using AWS services.
+  - **Domain Management:** Acquiring and configuring the domain to point to a hosted application.
+  - **Client Communication:** Managing client expectations and delivering a tailored solution that meet their needs.
+  - **End-to-End Management:** Overseeing the entire process from domain purchasing, application development, to deployment and ongoing maintenance.  
+
+## ⚙️ Tools
+
+- **Development Environment:** VS Code, Netbeans
+- **Database Management:** MySQL Workbench, Heidi SQL
+- **Version Control:** GitHub
+- **Design & Media:** Adobe Photoshop, Adobe Premiere, Wondershare 
+- **Reporting:** Jaspersoft
+- **Hardware & Embedded Systems:** Arduino
 
 ## 🤝 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/charitha-ekanayaka-7565a72a1/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/charitha-ekanayaka-7565a72a1/)
+- 🔗 [Facebook 01](https://web.facebook.com/profile.php?id=100091390532081)
+- 🔗 [Facebook 02](https://web.facebook.com/emcm.ekanayaka.343/)
 
 ---
-
-![Your Name's GitHub Profile](https://github.com/yourusername/yourusername/raw/master/profile-readme.png)
