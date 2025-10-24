@@ -10,8 +10,8 @@
 
 ## 💻 Programming Skills
 
-- **Programming Languages:** Java, Javascript, PHP, Python, SQL 
-- **Frameworks/Libraries:** Boostrap, FlatLaf
+- **Programming Languages:** Java, Javascript, Typescript, React Native, PHP, Python, SQL
+- **Frameworks/Libraries:** Boostrap, FlatLaf, Hibernate, Nativewind
 - **Others:** HTML, CSS
 
 ## 🌟 Professional Skills
